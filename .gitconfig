@@ -1,0 +1,7 @@
+[user]
+	name = Takehara Eita
+	email = 177946216+taketake-dev@users.noreply.github.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = cache
