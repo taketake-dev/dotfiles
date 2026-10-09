@@ -1,3 +1,6 @@
 *.swp
 .ssh/
 .secrets/
+
+__pycache__/
+*.py[cod]
